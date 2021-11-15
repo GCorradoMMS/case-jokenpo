@@ -15,18 +15,19 @@ Tesoura empata com Tesoura e ganha de Papel
 Papel empata com Papel e ganha de Pedra
 ## Tecnologias
 Ter instalado e serem executáveis:
+
 `Java`
+
 `Maven`
-Testado em ambiente Unix.
-## Tecnologias
-Ter instalado e serem executáveis:
-`Java`
-`Maven`
+
 Testado em ambiente Unix.
 ## Instruções
 Na pasta raíz do projeto, execute:
+
 `mv-e compile`
+
 `mvn exec:java -Dexec.mainClass="gustavo.c.jokenpo.Main"`
-Caso tenha a IDE Netbeans instalada, apenas carregue o projeto.
+
+Caso tenha a IDE Netbeans instalada, apenas carregue o projeto e builde.
 
 OBS: Não consegui completar a implementação dos testes a tempo, logo resolvi omiti-los.
