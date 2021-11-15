@@ -1,7 +1,9 @@
 # Jokenpo
 
 Teste da Zenvia para a vaga de Desenvolvedor Backend Junior
+
 CASE: Jokenpo.
+
 Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre três possíveis itens: Pedra, Papel ou Tesoura.
 
 O objetivo é fazer um juiz de Jokenpo que dada a jogada dos dois jogadores informa o resultado da partida.
